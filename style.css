@@ -30,18 +30,8 @@ footer {
 }
 .testo {
   font-size: 12px;
-  width: 130px;
 }
-.sizeButton {
-  font-size: 12px;
-}
-@media screen and (min-width: 1200px) {
-  .footer1 {
-    width: 50%;
-  }
-}
-@media screen and (max-width: 992px) {
-  .footer1 {
-    width: 100%;
-  }
+
+.footer ul {
+  list-style-type: none;
 }
