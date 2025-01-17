@@ -29,6 +29,9 @@ footer {
   font-size: 20px;
 }
 .testo {
-  font-size: 10px;
+  font-size: 12px;
   width: 130px;
+}
+.sizeButton {
+  font-size: 12px;
 }
