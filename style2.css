@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(20, 20, 20);
+  margin-inline: 50px;
+  box-sizing: border-box;
+}
+.logo {
+  height: 70px;
+}
+.back {
+  background-color: rgb(20, 20, 20);
+}
+footer {
+  margin-top: 6rem;
+}
+footer img {
+  width: 150px;
+  height: 130px;
+}
