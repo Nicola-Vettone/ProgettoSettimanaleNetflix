@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(20, 20, 20);
+  margin-inline: 50px;
+}
+.logo {
+  height: 40px;
+}
+.avatar {
+  height: 25px;
+  vertical-align: middle;
+}
+.back {
+  background-color: rgb(20, 20, 20);
+}
+i {
+  cursor: pointer;
+}
